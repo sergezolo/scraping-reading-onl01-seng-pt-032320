@@ -7,4 +7,3 @@ Nokogiri::HTML(html)
 
 doc = Nokogiri::HTML(html)
 
-puts doc
